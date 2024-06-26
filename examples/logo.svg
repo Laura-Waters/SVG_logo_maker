@@ -1,1 +1,1 @@
-<svg width="300px" height="200px"><polygon points="100,20 200,190 0,190" fill="purple"/><text x="100" y="160" font-size="50" text-anchor="middle" fill="white">LWA</text></svg>
+<svg width="300px" height="200px"><rect width="200" height="200" x="0" y="0"  fill="purple"/><text x="100" y="120" font-size="60" text-anchor="middle" fill="white">LWA</text></svg>
